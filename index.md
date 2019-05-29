@@ -10,10 +10,14 @@ Email: [maziqing@mail.nwpu.edu.cn](mailto:maziqing@mail,nwpu.edu.cn)
 
 Address: Northwestern Polytechnical University, Xi'an, China (710129)
 
-<div align=center><img src="https://i.imgur.com/0GHdZnT.jpg" width="30%" height="37%"><br>
+<div align=center>
+
+<img src="https://i.imgur.com/0GHdZnT.jpg" width="30%" height="37%"><br>
 
 <div align=left>
+
 ## Education ##
+
 **Northwestern Polytechnical University**&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;**Sep. 2017 - Apr. 2020**<br>
 *Master of Engineering, Control Science and Engineering ,School of Automation*<br>
 
