@@ -10,9 +10,7 @@ Address: Northwestern Polytechnical University, Xi'an, China (710129)
 
 ## About Me
 
-<div align=center>
-<img src="https://i.imgur.com/0iJICl1.jpg" style="zoom:20%"><br>
-<div align=left>
+<div align=center>![](https://i.imgur.com/bCOfg9k.jpg)<div align=left>
 Hi! I am a master candidate of M.E. Control Science and Engineering at Northwestern Polytechnical University, Xi'an.<br>
 
 ## Education
