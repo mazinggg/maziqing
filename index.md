@@ -35,7 +35,12 @@ Address: Northwestern Polytechnical University, Xi'an, China (710129)
 ## Research Experience ##
 **1. Sensor System Design and Evaluation Technology of Flight Control System**<br>
 
-<div align=right>*Apr. 2017 - Oct. 2018*<div align=left><br>
+<div align=right>
+
+*Apr. 2017 - Oct. 2018*
+
+<div align=left><br>
+
 (1) *Quantitative Analysis on Sensor Dynamic Characteristics In Flight Control System*
 
 - Simplified the transfer function expression of dynamic characteristics of the sensor to a second-order oscillation element through mathematical modeling. Built the model of the aircraft and completed the control law design. Innovatively introduced the mathematical model of the sensor into the feedback loop of the corresponding flight control system. Made an analysis on the simulation results and drew a conclusion of the influence of the sensor's dynamic characteristics on the flight control system.<br>
