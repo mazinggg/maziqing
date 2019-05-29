@@ -5,6 +5,7 @@ layout: default
 
 <div align=center><img src="https://i.imgur.com/0GHdZnT.jpg" width="25%" height="30%"></div>
 
+---
 
 <font face="Times New Roman">
 
@@ -15,6 +16,10 @@ Phone: [(+86) 187-2921-2043](tel:+8618729212043)
 Email: [maziqing@mail.nwpu.edu.cn](mailto:maziqing@mail,nwpu.edu.cn)
 
 Address: Northwestern Polytechnical University, Xi'an, China (710129)
+
+
+----------
+
 
 ## Education ##
 
