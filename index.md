@@ -3,7 +3,7 @@ layout: default
 ---
 <br>
 
-<div align=center><img src="https://i.imgur.com/0GHdZnT.jpg" width="25%" height="30%"></div>
+<img class="profile-picture" src="Sunday.jpg">
 
 ---
 
