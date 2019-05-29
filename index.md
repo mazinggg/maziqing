@@ -10,11 +10,7 @@ Email: [maziqing@mail.nwpu.edu.cn](mailto:maziqing@mail,nwpu.edu.cn)
 
 Address: Northwestern Polytechnical University, Xi'an, China (710129)
 
-<div align=center>
-
-<img src="https://i.imgur.com/0GHdZnT.jpg" width="30%" height="37%"><br>
-
-<div align=left>
+<div align=center><img src="https://i.imgur.com/0GHdZnT.jpg" width="30%" height="37%"></div>
 
 ## Education ##
 
@@ -39,9 +35,7 @@ Address: Northwestern Polytechnical University, Xi'an, China (710129)
 ## Research Experience ##
 **1. Sensor System Design and Evaluation Technology of Flight Control System**<br>
 
-<div align=right>
-
-*Apr. 2017 - Oct. 2018*<div align=left><br>
+<div align=right>*Apr. 2017 - Oct. 2018*<div align=left><br>
 (1) *Quantitative Analysis on Sensor Dynamic Characteristics In Flight Control System*
 
 - Simplified the transfer function expression of dynamic characteristics of the sensor to a second-order oscillation element through mathematical modeling. Built the model of the aircraft and completed the control law design. Innovatively introduced the mathematical model of the sensor into the feedback loop of the corresponding flight control system. Made an analysis on the simulation results and drew a conclusion of the influence of the sensor's dynamic characteristics on the flight control system.<br>
@@ -73,7 +67,7 @@ Address: Northwestern Polytechnical University, Xi'an, China (710129)
 - Took part in ''Open Semina'' summer training scholarship program in the University of Tokyo. July 2018 in Tokyo, Japan
 
 
-- Interviewed Prof. Wolfgang Ketterle, German Physicist and Nobel laureate, as a student reporter. November 2014 in Xi'an, China URL:&#160;[https://news.nwpu.edu.cn/info/1002/27946.htm](https://news.nwpu.edu.cn/info/1002/27946.htm)
+- Interviewed Prof. Wolfgang Ketterle, German Physicist and Nobel laureate, as a student reporter. November 2014 in Xi'an, China <font color=blue>**URL:**&#160;[https://news.nwpu.edu.cn/info/1002/27946.htm](https://news.nwpu.edu.cn/info/1002/27946.htm)</font>
 
 
 - Led the documentary filming of the school sports meeting and played an important role of the producer and the reporter for two consecutive years. April 2014-2015 in Xi'an, China
