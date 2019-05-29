@@ -2,16 +2,16 @@
 layout: default
 ---
 
-<font face="Times New Roman">Phone: [(+86) 187-2921-2043](tel:+8618729212043)</font>
+<font face="Times New Roman">
+Phone: [(+86) 187-2921-2043](tel:+8618729212043)
 
-<font face="Times New Roman">Email: [maziqing@mail.nwpu.edu.cn](mailto:maziqing@mail,nwpu.edu.cn)</font>
+Email: [maziqing@mail.nwpu.edu.cn](mailto:maziqing@mail,nwpu.edu.cn)
 
-<font face="Times New Roman">Address: Northwestern Polytechnical University, Xi'an, China (710129)</font>
+Address: Northwestern Polytechnical University, Xi'an, China (710129)
 
 <div align=center><img src="https://i.imgur.com/0GHdZnT.jpg" width="30%" height="37%"><br>
 
 <div align=left>
-<font face="Times New Roman">
 ## Education
 **Northwestern Polytechnical University**&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;**Sep. 2017 - Apr. 2020**<br>
 *Master of Engineering, Control Science and Engineering ,School of Automation*<br>
@@ -80,4 +80,4 @@ layout: default
 - **Certifications:** C Language( National Computer Rank Examination, Level II)
 
 
-- **Interests:** Chinese Classic Dance (Level 6), Swimming</font>
+- **Interests:** Chinese Classic Dance (Level 6), Swimming
