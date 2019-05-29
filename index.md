@@ -38,7 +38,10 @@ Address: Northwestern Polytechnical University, Xi'an, China (710129)
 
 ## Research Experience ##
 **1. Sensor System Design and Evaluation Technology of Flight Control System**<br>
-<div align=right>*Apr. 2017 - Oct. 2018*<div align=left><br>
+
+<div align=right>
+
+*Apr. 2017 - Oct. 2018*<div align=left><br>
 (1) *Quantitative Analysis on Sensor Dynamic Characteristics In Flight Control System*
 
 - Simplified the transfer function expression of dynamic characteristics of the sensor to a second-order oscillation element through mathematical modeling. Built the model of the aircraft and completed the control law design. Innovatively introduced the mathematical model of the sensor into the feedback loop of the corresponding flight control system. Made an analysis on the simulation results and drew a conclusion of the influence of the sensor's dynamic characteristics on the flight control system.<br>
@@ -49,7 +52,12 @@ Address: Northwestern Polytechnical University, Xi'an, China (710129)
 - Analyzed the sensor involved based on the function of the flight control system and completed the sensor parameter design based on the performance of the system. Summarized and attained a flow chart of the sensor parameter design method. Varied the parameters of the sensor's signal characteristics in the process of mathematical modeling and simulation. Recorded and quantitatively analyzed the flight control system's performances and the aircraft handling qualities under different signal characteristic parameters. Established the database that collectively described the influence of sensor signal characteristics on flight control system's performance and aircraft handling quality. The established database and the evaluation method can be used to evaluate the influence of the sensor in the flight control system, and also provide reference for the parameter design and selection of the sensor on-board.<br>
 
 **2.Evolution and Impact of Information Networks**<br>
-<div align=right>*Feb. 2016 - Feb. 2016*<div align=left>
+
+<div align=right>
+
+*Feb. 2016 - Feb. 2016*
+
+<div align=left>
 
 -  In cooperation with two other teammates, built three transmission dynamics network models to comprehensively evaluate the transmission capabilities of the information networks on the basis of the ''pull and push'' theory and the bi-layer network methodology. Verified the reliability of our models by forecasting the present situation using the previous data and comparing them to the known data nowadays. Dynamically modified the changing course of the public interest and quantified the consequences by the preference distance. Analyzed the models' sensitivity by bringing minor changes into the decay rates.
 
