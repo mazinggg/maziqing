@@ -3,24 +3,17 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [maziqing@mail,nwpu.edu.cn](mailto:maziqing@mail,nwpu.edu.cn)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [(+86) 187 2921 2043](tel:+8618729212043)
 
 ---
 
 ## Mailing Address
-
-> 221B, Baker Street
+> School of Automation, Northwestern Polytechnical University
 >
-> London
->
-> United Kingdom
+> 1 Dongxiang Road, Chang'an District
+> 
+> Xi'an (710129), Shaanxi, P.R. China
 
 ---
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
