@@ -12,7 +12,7 @@ Address: Northwestern Polytechnical University, Xi'an, China (710129)
 <div align=center><img src="https://i.imgur.com/0GHdZnT.jpg" width="30%" height="37%"><br>
 
 <div align=left>
-## Education
+## Education ##
 **Northwestern Polytechnical University**&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;**Sep. 2017 - Apr. 2020**<br>
 *Master of Engineering, Control Science and Engineering ,School of Automation*<br>
 
@@ -48,12 +48,12 @@ Address: Northwestern Polytechnical University, Xi'an, China (710129)
 
 -  In cooperation with two other teammates, built three transmission dynamics network models to comprehensively evaluate the transmission capabilities of the information networks on the basis of the ''pull and push'' theory and the bi-layer network methodology. Verified the reliability of our models by forecasting the present situation using the previous data and comparing them to the known data nowadays. Dynamically modified the changing course of the public interest and quantified the consequences by the preference distance. Analyzed the models' sensitivity by bringing minor changes into the decay rates.
 
-## Papers
+## Papers ##
 
 1. Ziqing Ma. "Analysis on Sensor Dynamic Characteristics in Flight Control System." 38th Chinese Control Conference (CCC2019), July 27-30, 2019, Guangzhou, China. (Paper accepted and to be added to IEEE Xplore)
 2. Ziqing Ma, Tingyi Li, Xingyu Wu. "Evolution and Impact of Information Networks." Honorable Mention, Interdisciplinary Contest In Modeling 2016
 
-## Personal Experiences
+## Personal Experiences ##
 
 
 
