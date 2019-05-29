@@ -1,8 +1,14 @@
 ---
 layout: default
 ---
+<br>
+
+<div align=center><img src="https://i.imgur.com/0GHdZnT.jpg" width="25%" height="30%"></div>
+
 
 <font face="Times New Roman">
+
+Nationality: P.R. China
 
 Phone: [(+86) 187-2921-2043](tel:+8618729212043)
 
@@ -10,9 +16,8 @@ Email: [maziqing@mail.nwpu.edu.cn](mailto:maziqing@mail,nwpu.edu.cn)
 
 Address: Northwestern Polytechnical University, Xi'an, China (710129)
 
-<div align=center><img src="https://i.imgur.com/0GHdZnT.jpg" width="30%" height="37%"></div>
-
 ## Education ##
+
 
 **Northwestern Polytechnical University**&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;**Sep. 2017 - Apr. 2020**<br>
 *Master of Engineering, Control Science and Engineering ,School of Automation*<br>
@@ -28,11 +33,15 @@ Address: Northwestern Polytechnical University, Xi'an, China (710129)
 - Relevant Coursework: Airplane Accident Investigation and Analysis(96), Flight Control System(81), Modern Aviation Instruments System(95), Principles and System of Civil Airplane(96)<br>
 
 ## Research Interests ##
+
+
 - Flight Control System, Aircraft Aerodynamics<br>
 - Automatic Control<br>
 - Sensor Technology, Information Fusion<br>
 
 ## Research Experience ##
+
+
 **1. Sensor System Design and Evaluation Technology of Flight Control System**<br>
 
 <div align=right>
@@ -62,11 +71,11 @@ Address: Northwestern Polytechnical University, Xi'an, China (710129)
 
 ## Papers ##
 
+
 1. Ziqing Ma. "Analysis on Sensor Dynamic Characteristics in Flight Control System." 38th Chinese Control Conference (CCC2019), July 27-30, 2019, Guangzhou, China. (Paper accepted and to be added to IEEE Xplore)
 2. Ziqing Ma, Tingyi Li, Xingyu Wu. "Evolution and Impact of Information Networks." Honorable Mention, Interdisciplinary Contest In Modeling 2016
 
 ## Personal Experiences ##
-
 
 
 - Took part in ''Open Semina'' summer training scholarship program in the University of Tokyo. July 2018 in Tokyo, Japan
