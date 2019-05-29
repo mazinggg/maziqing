@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://mazinggg.github.io/maziqing/"
-footer_text: "Page design by Ziqing Ma"
+footer_text: "Page designed by Ziqing Ma"
 
 sass:
     style: compressed
