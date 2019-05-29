@@ -2,25 +2,24 @@
 layout: default
 ---
 
-Phone: [(+86) 187-2921-2043](tel:+8618729212043)
+<font face="Times New Roman">Phone: [(+86) 187-2921-2043](tel:+8618729212043)</font>
 
-Email: [maziqing@mail.nwpu.edu.cn](mailto:maziqing@mail,nwpu.edu.cn)
+<font face="Times New Roman">Email: [maziqing@mail.nwpu.edu.cn](mailto:maziqing@mail,nwpu.edu.cn)</font>
 
-Address: Northwestern Polytechnical University, Xi'an, China (710129)
+<font face="Times New Roman">Address: Northwestern Polytechnical University, Xi'an, China (710129)</font>
 
-## About Me
+<div align=center><img src="https://i.imgur.com/0GHdZnT.jpg" width="30%" height="37%"><br>
 
-<div align=center>![](https://i.imgur.com/bCOfg9k.jpg)<div align=left>
-Hi! I am a master candidate of M.E. Control Science and Engineering at Northwestern Polytechnical University, Xi'an.<br>
-
+<div align=left>
+<font face="Times New Roman">
 ## Education
-**Northwestern Polytechnical University**&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;**Sep. 2017 - Apr. 2020**<br>
+**Northwestern Polytechnical University**&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;**Sep. 2017 - Apr. 2020**<br>
 *Master of Engineering, Control Science and Engineering ,School of Automation*<br>
 
 - Honors: The First-prize Academic Scholarship(2017), The Second-prize Scholarship for Social Activities(2018)<br>
 - Relevant Coursework: Aircraft Trajectory Planning and Optimization(95), Analysis and Design of Reliability for Control System(90), Computer Control System(83), Linear System Theory(84), Modeling and Simulation of Control System(80)<br>
 
-**Northwestern Polytechnical University**&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;**Sep. 2013 - Jun. 2017**<br>
+**Northwestern Polytechnical University**&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;**Sep. 2013 - Jun. 2017**<br>
 *Bachelor of Engineering, Electrical Engineering and Automation ,School of Aeronautics*<br>
 
 
@@ -81,4 +80,4 @@ Hi! I am a master candidate of M.E. Control Science and Engineering at Northwest
 - **Certifications:** C Language( National Computer Rank Examination, Level II)
 
 
-- **Interests:** Chinese Classic Dance (Level 6), Swimming
+- **Interests:** Chinese Classic Dance (Level 6), Swimming</font>
