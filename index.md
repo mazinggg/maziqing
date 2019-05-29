@@ -68,7 +68,7 @@ Bachelor of Engineering, Electrical Engineering and Automation ,School of Aerona
 
 - Took part in ''Open Semina'' summer training scholarship program in the University of Tokyo. July 2018 in Tokyo, Japan
 
-- Interviewed Prof. Wolfgang Ketterle, German Physicist and Nobel laureate, as a student reporter. November 2014 in Xi'an, China <font color=Blue>**URL:**&#160;[https://news.nwpu.edu.cn/info/1002/27946.htm](https://news.nwpu.edu.cn/info/1002/27946.htm)</font>
+- Interviewed Prof. Wolfgang Ketterle, German Physicist and Nobel laureate, as a student reporter. November 2014 in Xi'an, China &#160;&#160;&#160;&#160;&#160;URL:&#160;[https://news.nwpu.edu.cn/info/1002/27946.htm](https://news.nwpu.edu.cn/info/1002/27946.htm)
 
 - Led the documentary filming of the school sports meeting and played an important role of the producer and the reporter for two consecutive years. April 2014-2015 in Xi'an, China
 
