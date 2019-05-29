@@ -45,12 +45,12 @@ Address: Northwestern Polytechnical University, Xi'an, China (710129)
 
 - Simplified the transfer function expression of dynamic characteristics of the sensor to a second-order oscillation element through mathematical modeling. Built the model of the aircraft and completed the control law design. Innovatively introduced the mathematical model of the sensor into the feedback loop of the corresponding flight control system. Made an analysis on the simulation results and drew a conclusion of the influence of the sensor's dynamic characteristics on the flight control system.<br>
 
-(2)*Method of Evaluating Sensor Signal Characteristics In Flight Control System*<br>
+(2) *Method of Evaluating Sensor Signal Characteristics In Flight Control System*<br>
 
 
 - Analyzed the sensor involved based on the function of the flight control system and completed the sensor parameter design based on the performance of the system. Summarized and attained a flow chart of the sensor parameter design method. Varied the parameters of the sensor's signal characteristics in the process of mathematical modeling and simulation. Recorded and quantitatively analyzed the flight control system's performances and the aircraft handling qualities under different signal characteristic parameters. Established the database that collectively described the influence of sensor signal characteristics on flight control system's performance and aircraft handling quality. The established database and the evaluation method can be used to evaluate the influence of the sensor in the flight control system, and also provide reference for the parameter design and selection of the sensor on-board.<br>
 
-**2.Evolution and Impact of Information Networks**<br>
+**2. Evolution and Impact of Information Networks**<br>
 
 <div align=right>
 
@@ -72,7 +72,7 @@ Address: Northwestern Polytechnical University, Xi'an, China (710129)
 - Took part in ''Open Semina'' summer training scholarship program in the University of Tokyo. July 2018 in Tokyo, Japan
 
 
-- Interviewed Prof. Wolfgang Ketterle, German Physicist and Nobel laureate, as a student reporter. November 2014 in Xi'an, China <font color=blue>**URL:**&#160;[https://news.nwpu.edu.cn/info/1002/27946.htm](https://news.nwpu.edu.cn/info/1002/27946.htm)</font>
+- Interviewed Prof. Wolfgang Ketterle, German Physicist and Nobel laureate, as a student reporter. November 2014 in Xi'an, China <font color=Blue>**URL:**&#160;[https://news.nwpu.edu.cn/info/1002/27946.htm](https://news.nwpu.edu.cn/info/1002/27946.htm)</font>
 
 
 - Led the documentary filming of the school sports meeting and played an important role of the producer and the reporter for two consecutive years. April 2014-2015 in Xi'an, China
