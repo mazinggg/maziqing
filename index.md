@@ -18,6 +18,8 @@ Address: Northwestern Polytechnical University, Xi'an, China (710129)
 
 ## Education
 
+----------
+
 Northwestern Polytechnical University&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Sep. 2017 - Apr. 2020
 
 Master of Engineering, Control Science and Engineering ,School of Automation
@@ -34,12 +36,15 @@ Bachelor of Engineering, Electrical Engineering and Automation ,School of Aerona
 
 ## Research Interests
 
+----------
+
 - Flight Control System, Aircraft Aerodynamics<br>
 - Automatic Control<br>
 - Sensor Technology, Information Fusion<br>
 
 ## Research Experience
 
+----------
 
 1. Sensor System Design and Evaluation Technology of Flight Control System
 
@@ -61,10 +66,14 @@ Bachelor of Engineering, Electrical Engineering and Automation ,School of Aerona
 
 ## Papers
 
+----------
+
 1. Ziqing Ma. "Analysis on Sensor Dynamic Characteristics in Flight Control System." 38th Chinese Control Conference (CCC2019), July 27-30, 2019, Guangzhou, China. (Paper accepted and to be added to IEEE Xplore)
 2. Ziqing Ma, Tingyi Li, Xingyu Wu. "Evolution and Impact of Information Networks." Honorable Mention, Interdisciplinary Contest In Modeling 2016
 
 ## Personal Experiences
+
+----------
 
 - Took part in ''Open Semina'' summer training scholarship program in the University of Tokyo. July 2018 in Tokyo, Japan
 
@@ -75,6 +84,8 @@ Bachelor of Engineering, Electrical Engineering and Automation ,School of Aerona
 - Served as a volunteer in the "Youthinkgreen" environmental protection project. Attended the Global Youth Climate Summit held in Wolfsburg and delivered the opening speech at the summit. April 2012 in Wolfsburg, Germany
 
 ## Miscellaneous
+
+----------
 
 - **Skills:** C Language (Proficient), MATLAB (Proficient), Microsoft Office (Proficient), DSP (Basic)
 
