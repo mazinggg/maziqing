@@ -12,7 +12,7 @@ footer_url: "https://mazinggg.github.io/maziqing/"
 footer_text: "Page designed by Ziqing Ma"
 
 sass:
-    style: compressed
+    style: normal
     sass_dir: _sass
 
 nav:
