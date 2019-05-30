@@ -20,14 +20,18 @@ Address: Northwestern Polytechnical University, Xi'an, China (710129)
 
 ----------
 
-**Northwestern Polytechnical University**<div align=right>Sep. 2017 - Apr. 2020</div>
+**Northwestern Polytechnical University**
+
+<div align=right>Sep. 2017 - Apr. 2020</div>
 
 Master of Engineering, Control Science and Engineering ,School of Automation
 
 - Honors: The First-prize Academic Scholarship(2017), The Second-prize Scholarship for Social Activities(2018)
 - Relevant Coursework: Aircraft Trajectory Planning and Optimization(95), Analysis and Design of Reliability for Control System(90), Computer Control System(83), Linear System Theory(84), Modeling and Simulation of Control System(80)
 
-Northwestern Polytechnical University&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Sep. 2013 - Jun. 2017
+<br>
+
+**Northwestern Polytechnical University**&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;*Sep. 2013 - Jun. 2017*
 
 Bachelor of Engineering, Electrical Engineering and Automation ,School of Aeronautics
 
