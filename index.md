@@ -5,12 +5,11 @@ layout: default
 
 <img class="profile-picture" src="Sunday.jpg">
 ---
-
-Nationality: P.R. China
-
 Phone: [(+86) 187-2921-2043](tel:+8618729212043)
 
 Email: [maziqing@mail.nwpu.edu.cn](mailto:maziqing@mail,nwpu.edu.cn)
+
+Nationality: P.R. China
 
 Address: Northwestern Polytechnical University, Xi'an, China (710129)
 
@@ -20,7 +19,7 @@ Address: Northwestern Polytechnical University, Xi'an, China (710129)
 
 ----------
 
-Northwestern Polytechnical University&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Sep. 2017 - Apr. 2020
+**Northwestern Polytechnical University**&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Sep. 2017 - Apr. 2020
 
 Master of Engineering, Control Science and Engineering ,School of Automation
 
