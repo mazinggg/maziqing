@@ -25,6 +25,7 @@ Address: Northwestern Polytechnical University, Xi'an, China (710129)
 Master of Engineering, Control Science and Engineering, School of Automation
 
 - **Honors:** The First-prize Academic Scholarship(2017), The Second-prize Scholarship for Social Activities(2018)
+
 - **Relevant Coursework:** Aircraft Trajectory Planning and Optimization(95), Analysis and Design of Reliability for Control System(90), Computer Control System(83), Linear System Theory(84), Modeling and Simulation of Control System(80)
 
 <br>
@@ -34,6 +35,7 @@ Master of Engineering, Control Science and Engineering, School of Automation
 Bachelor of Engineering, Electrical Engineering and Automation, School of Aeronautics
 
 - **Honors:** Outstanding Student and the First-prize Scholarship(2014), The Second Prize for Band C in National English Competition for College Students(2014), The Second Prize for Automatic Control Experimental Skill competition(2015)
+
 - **Relevant Coursework:** Airplane Accident Investigation and Analysis(96), Flight Control System(81), Modern Aviation Instruments System(95), Principles and System of Civil Airplane(96)
 
 <br>
@@ -42,9 +44,11 @@ Bachelor of Engineering, Electrical Engineering and Automation, School of Aerona
 
 ----------
 
-- Flight Control System, Aircraft Aerodynamics<br>
-- Automatic Control<br>
-- Sensor Technology, Information Fusion<br>
+- Flight Control System, Aircraft Aerodynamics
+
+- Automatic Control
+
+- Sensor Technology, Information Fusion
 
 <br>
 
@@ -73,6 +77,7 @@ Bachelor of Engineering, Electrical Engineering and Automation, School of Aerona
 ----------
 
 1. Ziqing Ma. "Analysis on Sensor Dynamic Characteristics in Flight Control System." 38th Chinese Control Conference (CCC2019), July 27-30, 2019, Guangzhou, China. (Paper accepted and to be added to IEEE Xplore)
+
 2. Ziqing Ma, Tingyi Li, Xingyu Wu. "Evolution and Impact of Information Networks." Honorable Mention, Interdisciplinary Contest In Modeling 2016
 
 <br>
