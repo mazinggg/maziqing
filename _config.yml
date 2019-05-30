@@ -9,7 +9,7 @@ footer_url: "https://mazinggg.github.io/maziqing/contact"
 footer_text: "Page designed by Ziqing Ma"
 
 sass:
-    style: normal
+    style: slack
     sass_dir: _sass
 
 nav:
