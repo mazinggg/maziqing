@@ -14,6 +14,8 @@ Nationality: P.R. China
 
 Address: Northwestern Polytechnical University, Xi'an, China (710129)
 
+<br>
+
 ----------
 
 ## Education
@@ -36,6 +38,10 @@ Bachelor of Engineering, Electrical Engineering and Automation ,School of Aerona
 - **Honors:** Outstanding Student and the First-prize Scholarship(2014), The Second Prize for Band C in National English Competition for College Students(2014), The Second Prize for Automatic Control Experimental Skill competition(2015)
 - **Relevant Coursework:** Airplane Accident Investigation and Analysis(96), Flight Control System(81), Modern Aviation Instruments System(95), Principles and System of Civil Airplane(96)
 
+<br>
+
+----------
+
 ## Research Interests
 
 ----------
@@ -43,6 +49,10 @@ Bachelor of Engineering, Electrical Engineering and Automation ,School of Aerona
 - Flight Control System, Aircraft Aerodynamics<br>
 - Automatic Control<br>
 - Sensor Technology, Information Fusion<br>
+
+<br>
+
+----------
 
 ## Research Experience
 
@@ -64,12 +74,20 @@ Bachelor of Engineering, Electrical Engineering and Automation ,School of Aerona
 
 -  In cooperation with two other teammates, built three transmission dynamics network models to comprehensively evaluate the transmission capabilities of the information networks on the basis of the ''pull and push'' theory and the bi-layer network methodology. Verified the reliability of our models by forecasting the present situation using the previous data and comparing them to the known data nowadays. Dynamically modified the changing course of the public interest and quantified the consequences by the preference distance. Analyzed the models' sensitivity by bringing minor changes into the decay rates.
 
+<br>
+
+----------
+
 ## Papers
 
 ----------
 
 1. Ziqing Ma. "Analysis on Sensor Dynamic Characteristics in Flight Control System." 38th Chinese Control Conference (CCC2019), July 27-30, 2019, Guangzhou, China. (Paper accepted and to be added to IEEE Xplore)
 2. Ziqing Ma, Tingyi Li, Xingyu Wu. "Evolution and Impact of Information Networks." Honorable Mention, Interdisciplinary Contest In Modeling 2016
+
+<br>
+
+----------
 
 ## Personal Experiences
 
@@ -82,6 +100,10 @@ Bachelor of Engineering, Electrical Engineering and Automation ,School of Aerona
 - Led the documentary filming of the school sports meeting and played an important role of the producer and the reporter for two consecutive years. April 2014-2015 in Xi'an, China
 
 - Served as a volunteer in the "Youthinkgreen" environmental protection project. Attended the Global Youth Climate Summit held in Wolfsburg and delivered the opening speech at the summit. April 2012 in Wolfsburg, Germany
+
+<br>
+
+----------
 
 ## Miscellaneous
 
