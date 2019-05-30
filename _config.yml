@@ -2,13 +2,10 @@ title: Ziqing Ma
 url: "https://mazinggg.github.io"
 baseurl: "/maziqing/"
 
-markdown: kramdown
-#ins_logo: "./bits-logo.png"
-
 tracking_id: #
 
 footer: yes
-footer_url: "https://mazinggg.github.io/maziqing/"
+footer_url: "https://mazinggg.github.io/maziqing/contact"
 footer_text: "Page designed by Ziqing Ma"
 
 sass:
