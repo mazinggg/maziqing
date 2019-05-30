@@ -16,8 +16,6 @@ Address: Northwestern Polytechnical University, Xi'an, China (710129)
 
 <br>
 
-----------
-
 ## Education
 
 ----------
@@ -40,8 +38,6 @@ Bachelor of Engineering, Electrical Engineering and Automation ,School of Aerona
 
 <br>
 
-----------
-
 ## Research Interests
 
 ----------
@@ -51,8 +47,6 @@ Bachelor of Engineering, Electrical Engineering and Automation ,School of Aerona
 - Sensor Technology, Information Fusion<br>
 
 <br>
-
-----------
 
 ## Research Experience
 
@@ -76,8 +70,6 @@ Bachelor of Engineering, Electrical Engineering and Automation ,School of Aerona
 
 <br>
 
-----------
-
 ## Papers
 
 ----------
@@ -86,8 +78,6 @@ Bachelor of Engineering, Electrical Engineering and Automation ,School of Aerona
 2. Ziqing Ma, Tingyi Li, Xingyu Wu. "Evolution and Impact of Information Networks." Honorable Mention, Interdisciplinary Contest In Modeling 2016
 
 <br>
-
-----------
 
 ## Personal Experiences
 
@@ -102,8 +92,6 @@ Bachelor of Engineering, Electrical Engineering and Automation ,School of Aerona
 - Served as a volunteer in the "Youthinkgreen" environmental protection project. Attended the Global Youth Climate Summit held in Wolfsburg and delivered the opening speech at the summit. April 2012 in Wolfsburg, Germany
 
 <br>
-
-----------
 
 ## Miscellaneous
 
