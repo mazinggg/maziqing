@@ -1,6 +1,6 @@
 ---
-layout: default
 is_index: true
+layout: default
 is_contact: true
 ---
 
