@@ -13,7 +13,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Resume"
+ - name: "Home"
+   link: "Index"
+ - name: "Curriculum Vitae"
    link: "ZiqingMa.pdf"
- - name: "Contact"
+ - name: "Contact me"
    link: "contact"
