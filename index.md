@@ -6,6 +6,8 @@ layout: default
 <img class="profile-picture" src="Sunday.jpg">
 ---
 
+<font face="Times New Roman">
+
 Phone: [(+86) 187-2921-2043](tel:+8618729212043)
 
 Email: [maziqing@mail.nwpu.edu.cn](mailto:maziqing@mail,nwpu.edu.cn)
@@ -83,13 +85,13 @@ Bachelor of Engineering, Electrical Engineering and Automation ,School of Aerona
 
 ----------
 
-- Took part in ''Open Semina'' summer training scholarship program in the University of Tokyo. July 2018 in Tokyo, Japan
+- Took part in "*Open Semina*" summer training scholarship program in the University of Tokyo. July 2018 in Tokyo, Japan
 
 - Interviewed Prof. Wolfgang Ketterle, German Physicist and Nobel laureate, as a student reporter. November 2014 in Xi'an, China.
 
 - Led the documentary filming of the school sports meeting and played an important role of the producer and the reporter for two consecutive years. April 2014-2015 in Xi'an, China
 
-- Served as a volunteer in the "Youthinkgreen" environmental protection project. Attended the Global Youth Climate Summit held in Wolfsburg and delivered the opening speech at the summit. April 2012 in Wolfsburg, Germany
+- Served as a volunteer in the "*Youthinkgreen*" environmental protection project. Attended the Global Youth Climate Summit held in Wolfsburg and delivered the opening speech at the summit. April 2012 in Wolfsburg, Germany
 
 <br>
 
