@@ -48,7 +48,7 @@ Bachelor of Engineering, Electrical Engineering and Automation ,School of Aerona
 
 ----------
 
-**Sensor System Design and Evaluation Technology of Flight Control System** &#160;&#160;*Apr. 2017 - Oct. 2018*
+**Sensor System Design and Evaluation Technology of Flight Control System** &#160;&#160;(*Apr. 2017 - Oct. 2018*)
 
 (1) *Quantitative Analysis on Sensor Dynamic Characteristics In Flight Control System*
 
@@ -58,7 +58,7 @@ Bachelor of Engineering, Electrical Engineering and Automation ,School of Aerona
 
 - Analyzed the sensor involved based on the function of the flight control system and completed the sensor parameter design based on the performance of the system. Summarized and attained a flow chart of the sensor parameter design method. Varied the parameters of the sensor's signal characteristics in the process of mathematical modeling and simulation. Recorded and quantitatively analyzed the flight control system's performances and the aircraft handling qualities under different signal characteristic parameters. Established the database that collectively described the influence of sensor signal characteristics on flight control system's performance and aircraft handling quality. The established database and the evaluation method can be used to evaluate the influence of the sensor in the flight control system, and also provide reference for the parameter design and selection of the sensor on-board.<br>
 
-**Evolution and Impact of Information Networks** &#160;&#160;*Feb. 2016 - Feb. 2016*
+**Evolution and Impact of Information Networks** &#160;&#160;(*Feb. 2016 - Feb. 2016*)
 
 -  In cooperation with two other teammates, built three transmission dynamics network models to comprehensively evaluate the transmission capabilities of the information networks on the basis of the ''pull and push'' theory and the bi-layer network methodology. Verified the reliability of our models by forecasting the present situation using the previous data and comparing them to the known data nowadays. Dynamically modified the changing course of the public interest and quantified the consequences by the preference distance. Analyzed the models' sensitivity by bringing minor changes into the decay rates.
 
