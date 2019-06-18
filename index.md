@@ -20,7 +20,7 @@ Address: Northwestern Polytechnical University, Xi'an, China (710129)
 
 ----------
 
-**Northwestern Polytechnical University** &#160;&#160;(*Sep.2017 - Apr.2020*)
+**Northwestern Polytechnical University** &#160;&#160;(*Sep.2017 - Dec.2019*)
 
 Master of Engineering, Control Science and Engineering, School of Automation
 
