@@ -4,7 +4,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [maziqing@mail,nwpu.edu.cn](mailto:maziqing@mail,nwpu.edu.cn)
+* Email: [ziqingma.npu@outlook.com](mailto:ziqingma.npu@outlook.com)
 
 * Phone: [(+86) 187 2921 2043](tel:+8618729212043)
 
